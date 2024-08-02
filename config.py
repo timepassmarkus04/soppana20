@@ -4,7 +4,7 @@ LOAD = getenv("LOAD", "").split()
 
 NO_LOAD = getenv("NO_LOAD", "").split()
 
-TOKEN = getenv("TOKEN", "7399684246:AAHxLugqXYzl3npOZQ4coiv_Wr_3Mbi9ePc")
+TOKEN = getenv("TOKEN", "6701285365:AAEWx7qhxHdTpedIrScUi030xwXbRfOsxWk")
 
 MONGO_DB_URL = getenv(
     "MONGO_DB_URL",
