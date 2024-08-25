@@ -11,7 +11,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     akboss.append(
         [
             InlineKeyboardButton(
-                text="𝖭𝖺 𝖯𝖺𝗏𝖺𝗆 𝗅𝖺 𝖠𝖽𝖽 𝗉𝖺𝗇𝗇𝗂𝗄𝗈",
+                text="𝖠𝖽𝖽 𝗆𝖾",
                 url=f"http://t.me/{context.bot.username}?startgroup=true"),
             InlineKeyboardButton(
                 text="𝖣𝖾𝗏𝗈𝗅𝗈𝗉𝖾𝗋",
@@ -32,7 +32,7 @@ async def help(update: Update, context: ContextTypes.DEFAULT_TYPE):
     akboss.append(
         [
             InlineKeyboardButton(
-                text="𝖭𝖺 𝖯𝖺𝗏𝖺𝗆 𝗅𝖺 𝖠𝖽𝖽 𝗉𝖺𝗇𝗇𝗂𝗄𝗈",
+                text="𝖠𝖽𝖽 𝗆𝖾",
                 url=f"http://t.me/{context.bot.username}?startgroup=true"),
             InlineKeyboardButton(
                 text="𝖣𝖾𝗏𝗈𝗅𝗈𝗉𝖾𝗋",
